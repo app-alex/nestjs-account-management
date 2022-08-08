@@ -23,8 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Backend for a [web app](https://github.com/app-alex/angular-account-management) managing accounts for various applications set by admins.
+Built with the [Nest](https://github.com/nestjs/nest) framework using a PostgreSQL database.
 
 ## Installation
 
